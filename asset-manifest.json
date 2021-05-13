@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-yaari/static/css/main.2d3da8ed.chunk.css",
+    "main.js": "/monsters-yaari/static/js/main.69b9b81e.chunk.js",
+    "main.js.map": "/monsters-yaari/static/js/main.69b9b81e.chunk.js.map",
+    "runtime-main.js": "/monsters-yaari/static/js/runtime-main.49d8d527.js",
+    "runtime-main.js.map": "/monsters-yaari/static/js/runtime-main.49d8d527.js.map",
+    "static/js/2.7367ec96.chunk.js": "/monsters-yaari/static/js/2.7367ec96.chunk.js",
+    "static/js/2.7367ec96.chunk.js.map": "/monsters-yaari/static/js/2.7367ec96.chunk.js.map",
+    "static/js/3.a2fa096c.chunk.js": "/monsters-yaari/static/js/3.a2fa096c.chunk.js",
+    "static/js/3.a2fa096c.chunk.js.map": "/monsters-yaari/static/js/3.a2fa096c.chunk.js.map",
+    "index.html": "/monsters-yaari/index.html",
+    "static/css/main.2d3da8ed.chunk.css.map": "/monsters-yaari/static/css/main.2d3da8ed.chunk.css.map",
+    "static/js/2.7367ec96.chunk.js.LICENSE.txt": "/monsters-yaari/static/js/2.7367ec96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49d8d527.js",
+    "static/js/2.7367ec96.chunk.js",
+    "static/css/main.2d3da8ed.chunk.css",
+    "static/js/main.69b9b81e.chunk.js"
+  ]
+}
